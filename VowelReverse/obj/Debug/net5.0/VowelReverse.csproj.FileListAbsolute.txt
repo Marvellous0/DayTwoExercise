@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\VowelReverse.exe
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\VowelReverse.deps.json
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\VowelReverse.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\VowelReverse.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\VowelReverse.dll
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\ref\VowelReverse.dll
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\bin\Debug\net5.0\VowelReverse.pdb
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.dll
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\ref\VowelReverse.dll
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.pdb
+C:\Users\Favour .O\Desktop\csharp\VowelReverse\obj\Debug\net5.0\VowelReverse.genruntimeconfig.cache

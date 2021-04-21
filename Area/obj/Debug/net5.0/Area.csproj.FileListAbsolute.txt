@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\Area.exe
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\Area.deps.json
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\Area.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\Area.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\Area.dll
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\ref\Area.dll
+C:\Users\Favour .O\Desktop\csharp\Area\bin\Debug\net5.0\Area.pdb
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.dll
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\ref\Area.dll
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.pdb
+C:\Users\Favour .O\Desktop\csharp\Area\obj\Debug\net5.0\Area.genruntimeconfig.cache

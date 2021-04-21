@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\FutureDates.exe
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\FutureDates.deps.json
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\FutureDates.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\FutureDates.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\FutureDates.dll
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\ref\FutureDates.dll
+C:\Users\Favour .O\Desktop\csharp\FutureDates\bin\Debug\net5.0\FutureDates.pdb
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.dll
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\ref\FutureDates.dll
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.pdb
+C:\Users\Favour .O\Desktop\csharp\FutureDates\obj\Debug\net5.0\FutureDates.genruntimeconfig.cache

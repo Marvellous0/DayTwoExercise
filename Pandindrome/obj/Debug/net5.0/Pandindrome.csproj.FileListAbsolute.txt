@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\Pandindrome.exe
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\Pandindrome.deps.json
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\Pandindrome.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\Pandindrome.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\Pandindrome.dll
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\ref\Pandindrome.dll
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\bin\Debug\net5.0\Pandindrome.pdb
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.dll
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\ref\Pandindrome.dll
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.pdb
+C:\Users\Favour .O\Desktop\csharp\Pandindrome\obj\Debug\net5.0\Pandindrome.genruntimeconfig.cache

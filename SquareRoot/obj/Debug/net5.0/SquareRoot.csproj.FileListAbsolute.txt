@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\SquareRoot.exe
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\SquareRoot.deps.json
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\SquareRoot.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\SquareRoot.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\SquareRoot.dll
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\ref\SquareRoot.dll
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\bin\Debug\net5.0\SquareRoot.pdb
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.dll
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\ref\SquareRoot.dll
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.pdb
+C:\Users\Favour .O\Desktop\csharp\SquareRoot\obj\Debug\net5.0\SquareRoot.genruntimeconfig.cache
